@@ -93,6 +93,7 @@ body{
     text-decoration: none;
     padding: 10px 60px;
     border-radius: 20px;
+    margin: 30px 0;
     background: linear-gradient(to right , 
     hsl(176, 68%, 64%),
     hsl(198, 60%, 50%)
@@ -129,7 +130,7 @@ body{
 .main-item .info-title{
     text-align: center;
     color: white;
-    font-size: 15px;
+    font-size: 18px;
     font-family: sans-serif;
     margin-bottom: 0;
     margin-top: 18px;
@@ -416,7 +417,7 @@ body{
     }
 
     .main-flat .main-item main .info-title{
-        font-size: 16px;
+        font-size: 18px;
 
     }
 
