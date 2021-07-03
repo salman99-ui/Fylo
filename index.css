@@ -394,6 +394,7 @@ body{
 
     .main-content .content .main-text{
         width: 75%;
+        font-size: 24px;
     }
 
     .main-content .content .content-text{
@@ -412,6 +413,15 @@ body{
     .main-info .main-flat .main-item{
         width: 100%;
         margin-bottom: 50px;
+    }
+
+    .main-flat .main-item main .info-title{
+        font-size: 16px;
+
+    }
+
+    .main-flat .main-item main .info-text{
+        font-size: 14px;
     }
 
     .campaign-main{
